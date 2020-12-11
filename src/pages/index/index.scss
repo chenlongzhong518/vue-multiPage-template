@@ -1,0 +1,12 @@
+@import "@/assets/css/mixins.scss";
+
+.index-box{
+    text-align: center;
+    .item{ 
+        text-align: center;
+        margin-bottom:20px;
+        .title{color: #409eff;}
+        .logo{width:px2rem(80);height:px2rem(80);display: block;margin:0 auto;}
+    }
+    
+}
