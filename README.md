@@ -10,10 +10,12 @@ npm install
 npm run serve
 ```
 
-# 模拟接口请求，方案一（默认）
+### 模拟接口请求，方案一（默认）
+```
 mock
+```
 
-# 模拟接口请求，方案二
+### 模拟接口请求，方案二
 ```
 cd server
 node app.js   #或者 nodemon app.js (推荐)
